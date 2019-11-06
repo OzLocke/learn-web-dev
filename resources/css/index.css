@@ -1,0 +1,58 @@
+body {
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+header {
+    background-color: coral;
+    background-image: url("../img/pattern.jpeg");
+}
+
+header h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin-top: 0;
+}
+
+section h2, section p, section h3{
+    font-family: Helvetica;
+    text-align: left;
+    margin-top: 0;
+    padding-left: 50px;
+}
+
+section p, section h3 {
+    color: darkslategrey;
+}
+
+section img {
+    margin-left: 50px;
+}
+
+section h2 {
+    font-weight: bold;
+    color: white;
+    font-size: 32px;
+}
+
+.mediumspringgreen {
+    background-color: mediumspringgreen;
+}
+
+.lightcoral {
+    background-color: lightcoral;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+
+span.price {
+    color: blue;
+    font-weight: bold;
+}
